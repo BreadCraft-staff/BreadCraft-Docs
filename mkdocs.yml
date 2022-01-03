@@ -1,0 +1,80 @@
+# Project information
+site_name: BreadCraft Docs
+site_url: https://docs.breadcraft.org
+site_author: BreadCraft Staff
+
+# Repository
+repo_name: BreadCraft-staff/BreadCraft-Docs
+repo_url: https://github.com/BreadCraft-staff/BreadCraft-Docs
+
+# Copyright
+copyright: Copyright &copy; 2020 - 2021 BreadCraft
+
+# Configuration
+extra:
+  homepage: https://breadcraft.org
+
+theme:
+  static_templates:
+    - 404.html
+  features:
+    - navigation.instant
+  palette:
+          - media: "(prefers-color-scheme: light)"
+            scheme: default
+            primary: blue
+            accent: light blue
+            toggle:
+                icon: material/weather-sunny
+                name: Switch to dark mode
+          - media: "(prefers-color-scheme: dark)"
+            scheme: slate
+            primary: indigo
+            accent: light blue
+            toggle:
+                icon: material/weather-night
+                name: Switch to light mode
+  name: material
+  icon:
+    repo: fontawesome/brands/github
+  logo: assets/favicon.png
+  favicon: assets/favicon.png
+
+nav:
+  - Home: index.md
+  - Guides:
+    - Coming soon: coming_soon.md
+  - Credits: credits.md
+
+markdown_extensions:
+    - attr_list
+    - codehilite:
+        guess_lang: false
+    - toc:
+        permalink: true
+    - pymdownx.tasklist:
+        custom_checkbox: true
+    - pymdownx.betterem:
+        smart_enable: all
+    - admonition
+    - meta
+    - footnotes
+    - pymdownx.details
+    - pymdownx.inlinehilite
+    - pymdownx.superfences
+    - pymdownx.tabbed
+    - pymdownx.emoji:
+        emoji_index: !!python/name:materialx.emoji.twemoji
+        emoji_generator: !!python/name:materialx.emoji.to_svg
+
+plugins:
+    - git-revision-date-localized:
+        type: date
+
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.breadcraft.org
+      name: BreadCraft Survival
+    - icon: fontawesome/brands/github
+      link: https://github.com/BreadCraft-staff
