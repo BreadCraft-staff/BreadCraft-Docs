@@ -4,7 +4,7 @@ BreadCraft Docs ©2018-2021 BreadCraft Staff
 
 ## Badges
 
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/959754c3-b05c-4c1b-aa03-157fcc4aac23/deploy-status)](https://app.netlify.com/sites/breadcraft-docs/deploys)
 
 ## Contribution Guide
 
