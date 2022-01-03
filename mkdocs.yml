@@ -19,6 +19,7 @@ theme:
     - 404.html
   features:
     - navigation.instant
+    - navigation.tabs
   palette:
           - media: "(prefers-color-scheme: light)"
             scheme: default
