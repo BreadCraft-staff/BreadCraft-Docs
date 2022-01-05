@@ -1,6 +1,6 @@
 # How to link your Discord account to your minecraft account
 
-When you try to log onto the server you will be greeted by the image below
+When you try to log onto the server you will be greeted by a message like the one shown below
 ![unknown](https://user-images.githubusercontent.com/36905598/148169437-28d4bdaa-fd25-4b33-9092-9438290c49b1.png)
 
 Please follow the instructions below
