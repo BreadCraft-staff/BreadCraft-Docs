@@ -44,7 +44,7 @@ theme:
 nav:
   - Home: index.md
   - Guides:
-    - Coming soon: coming_soon.md
+    - Coming soon: guides/linking.md
   - Credits: credits.md
 
 markdown_extensions:
