@@ -20,6 +20,11 @@ theme:
   features:
     - navigation.instant
     - navigation.tabs
+    - pymdownx.critic
+    - pymdownx.caret
+    - pymdownx.keys
+    - pymdownx.mark
+    - pymdownx.tilde
   palette:
           - media: "(prefers-color-scheme: light)"
             scheme: default
