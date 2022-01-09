@@ -1,6 +1,6 @@
 # BreadCraft Docs
 
-BreadCraft Docs ©2018-2021 BreadCraft Staff
+BreadCraft Docs ©2020-2022 BreadCraft Staff
 
 ## Badges
 
