@@ -28,14 +28,14 @@ theme:
   palette:
           - media: "(prefers-color-scheme: light)"
             scheme: default
-            primary: blue
+            primary: indigo
             accent: light blue
             toggle:
                 icon: material/weather-sunny
                 name: Switch to dark mode
           - media: "(prefers-color-scheme: dark)"
             scheme: slate
-            primary: indigo
+            primary: black
             accent: light blue
             toggle:
                 icon: material/weather-night
@@ -50,6 +50,7 @@ nav:
   - Home: index.md
   - Guides:
     - Linking: guides/linking.md
+    - Ranks and Commands: guides/ranks-and-commands.md
   - Credits: credits.md
 
 markdown_extensions:
