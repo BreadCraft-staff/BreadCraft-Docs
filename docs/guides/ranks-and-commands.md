@@ -38,9 +38,13 @@ Everything in Member
 - /eglow
 - /fly
 - /hat
+- /afk
 
 ### Other perms
 - Access to all glow colors
+- Unlimited homes
+- more chat formats
+- access to more plot features (when we release that again)
 
 !!! More-Soon
 There will be more stuff added to the Bread Baker rank as we go along
