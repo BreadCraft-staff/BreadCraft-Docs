@@ -55,6 +55,7 @@ nav:
   - Guides:
     - Linking: guides/linking.md
     - Ranks and Commands: guides/ranks-and-commands.md
+    - Site account linking: guides/website-to-discord-linking.md
   - Credits: credits.md
   - Privacy Policy: privacy-policy.md
 
