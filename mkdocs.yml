@@ -56,6 +56,7 @@ nav:
     - Linking: guides/linking.md
     - Ranks and Commands: guides/ranks-and-commands.md
     - Site account linking: guides/website-to-discord-linking.md
+    - Bedrock joining: guides/bedrock-joining.md
   - Credits: credits.md
   - Privacy Policy: privacy-policy.md
 
@@ -94,11 +95,8 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/discord
-      link: https://discord.gg/CDvWSmmDQv
-      name: BreadCraft Hub
-    - icon: fontawesome/brands/discord
-      link: https://discord.gg/feXHUQw
-      name: BreadCraft Survival
+      link: https://discord.breadcraft.org
+      name: BreadCraft
     - icon: fontawesome/brands/github
       link: https://github.com/BreadCraft-staff
     - icon: fontawesome/brands/twitter
