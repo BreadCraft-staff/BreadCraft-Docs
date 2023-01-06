@@ -1,7 +1,6 @@
-!!! warning
+!!! danger ""
 
-    This page is no longer needed and is scheduled to go into archive at some point
-    in the future
+    This page has been archived please do not use it.
 
 How to link your Discord account to your minecraft account
 

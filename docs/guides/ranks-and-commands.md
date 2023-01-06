@@ -1,3 +1,7 @@
+!!! note ""
+
+    This page is due to be updated at a later stage
+
 # Here are the ranks with the commands and permissions that are associated with them
 
 !!! abstract "Member"

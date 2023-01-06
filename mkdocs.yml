@@ -8,7 +8,7 @@ repo_name: BreadCraft-staff/BreadCraft-Docs
 repo_url: https://github.com/BreadCraft-staff/BreadCraft-Docs
 
 # Copyright
-copyright: Copyright &copy; 2020 - 2022 BreadCraft Staff
+copyright: Copyright &copy; 2020 - 2023 BreadCraft Staff
 
 # Configuration
 extra:
@@ -29,6 +29,7 @@ theme:
     - pymdownx.tilde
     - search.suggest
     - search.highlight
+    - navigation.top
   palette:
           - media: "(prefers-color-scheme: light)"
             scheme: default
@@ -53,10 +54,12 @@ theme:
 nav:
   - Home: index.md
   - Guides:
-    - Linking: guides/linking.md
     - Ranks and Commands: guides/ranks-and-commands.md
     - Site account linking: guides/website-to-discord-linking.md
     - Bedrock joining: guides/bedrock-joining.md
+  - Archive:
+    - About the archive: archive/archive.md
+    - Linking: archive/linking.md
   - Credits: credits.md
   - Privacy Policy: privacy-policy.md
 
@@ -99,9 +102,6 @@ extra:
       name: BreadCraft
     - icon: fontawesome/brands/github
       link: https://github.com/BreadCraft-staff
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/breadcraftstaff
-      name: BreadCraft Twitter
   analytics:
     provider: google
     property: UA-190132920-4
