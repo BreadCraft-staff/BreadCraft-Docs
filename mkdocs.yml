@@ -118,7 +118,7 @@ extra:
           data: 0
           note: >- 
             Thanks for your feedback! Help us improve this page by
-            using our <a href="..." target=_blank>feedback form</a>.
+            using our <a href="https://breadcraft.org/suggestions/" target=https://breadcraft.org/suggestions/>feedback form</a>.
   consent:
     title: Cookie consent
     description: >- 
