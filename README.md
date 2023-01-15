@@ -17,9 +17,5 @@ BreadCraft Docs ©2020-2022 BreadCraft Staff
 6.Submit a pull request
 ```
 
-## Licence
-
-You can view the license for this repo in [LICENSE](LICENSE)
-
 ## Credits
 See the [credits](https://docs.breadcraft.org/credits) to see the full list of credits
