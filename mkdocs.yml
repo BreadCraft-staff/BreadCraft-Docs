@@ -8,7 +8,9 @@ repo_name: BreadCraft-staff/BreadCraft-Docs
 repo_url: https://github.com/BreadCraft-staff/BreadCraft-Docs
 
 # Copyright
-copyright: Copyright &copy; 2020 - 2023 BreadCraft Staff
+copyright: >
+  Copyright &copy; 2020 - 2023 Breadcraft staff –
+  <a href="#__consent">Change cookie settings</a>
 
 # Configuration
 extra:
@@ -94,6 +96,10 @@ plugins:
   - git-revision-date-localized:
         type: date
         enable_creation_date: true
+  - social:
+      cards_color:
+        fill: "#E67E22"
+        text: "#FFFFFF"
 
 extra:
   social:
@@ -102,9 +108,12 @@ extra:
       name: BreadCraft
     - icon: fontawesome/brands/github
       link: https://github.com/BreadCraft-staff
+    - icon: material/link
+      name: Breadcraft Barkle
+      link: https://barkle.chat/@Breadcraftstaff
   analytics:
     provider: google
-    property: UA-190132920-4
+    property: G-MEKVY9Z7DM
     feedback:
       title: Was this page helpful?
       ratings:

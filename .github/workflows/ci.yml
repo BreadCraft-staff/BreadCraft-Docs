@@ -1,19 +1,22 @@
-name: ci
+name: ci 
 on:
   push:
     branches:
-      - master
+      - master 
       - main
+permissions:
+  contents: write
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    if: github.event.repository.fork == false
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-python@v2
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
         with:
           python-version: 3.x
-      - run: pip install mkdocs-material mkdocs-git-revision-date-localized-plugin wheel
+      - uses: actions/cache@v2
+        with:
+          key: ${{ github.ref }}
+          path: .cache
+      - run: pip install mkdocs-material mkdocs-git-revision-date-localized-plugin wheel pillow cairosvg
       - run: mkdocs gh-deploy --force
-env:
-  GH_TOKEN: ${{ secrets.GH_TOKEN }} 
