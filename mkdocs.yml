@@ -56,14 +56,13 @@ theme:
 nav:
   - Home: index.md
   - Guides:
-    - Ranks and Commands: guides/ranks-and-commands.md
-    - Site account linking: guides/website-to-discord-linking.md
     - Bedrock joining: guides/bedrock-joining.md
+    - Site account linking: guides/website-to-discord-linking.md
+    - Ranks and Commands: guides/ranks-and-commands.md
   - Archive:
     - About the archive: archive/archive.md
     - Linking: archive/linking.md
   - Credits: credits.md
-  - Privacy Policy: privacy-policy.md
 
 markdown_extensions:
     - attr_list
