@@ -97,7 +97,7 @@ plugins:
         enable_creation_date: true
   - social:
       cards_color:
-        fill: "#E67E22"
+        fill: "#546D78"
         text: "#FFFFFF"
 
 extra:
