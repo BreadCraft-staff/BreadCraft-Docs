@@ -1,7 +1,7 @@
 # How to join Breadcraft with your bedrock client
 
 !!! abstract "Java"
-    - Launch Minecraft (Version 1.19.3)
+    - Launch Minecraft (Version 1.19.4)
     - Click Multiplayer
     - Click Add Server
     - Enter hub.breadcraft.org in the server address box and click Done
@@ -19,7 +19,7 @@
     - Click Play
 
 ??? abstract "PlayStation/Xbox"
-    - Download a MC Server Connector app on your mobile device: MC Server Connector (Android) or Bedrock Together (iOS).
+    - Download a MC Server Connector app on your mobile device: Bedrock Together [iOS](https://apps.apple.com/us/app/bedrocktogether/id1534593376) & [Android](https://play.google.com/store/apps/details?id=pl.extollite.bedrocktogetherapp).
     - Enter hub.breadcraft.org in the Server Address box.
     - Enter 19132 in the Port box.
     - Click START SERVER or Run.
