@@ -18,4 +18,4 @@
 
 !!! info inline end
 
-    If you need help at all please don't hesitate to ask for it in our Discord server!
+    If you need help at all please don't hesitate to ask for it in our [Discord server](https://discord.gg/feXHUQw)!
